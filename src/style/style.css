@@ -134,7 +134,7 @@ ul.menu li.current a {color: #000;}
 .pad-1 h2{font-family: 'Philosopher', sans-serif;}
 
 /****************************footer************************/
-footer {background:url(../assets/images/background-footer.jpg) 0 0 no-repeat; width:100%;  overflow:hidden; text-align:center; padding:163px 0 100px 0;}
+footer {background:url(../assets/images/bg_footer.jpg ) no-repeat;background-size: cover; width:100%;  overflow:hidden; text-align:center; padding:50px 0 50px 0;}
 .footer-container{display: flex; justify-content: center; flex-direction: column;}
 .feedback-title{color: #000;font-family: 'Philosopher', sans-serif;margin: 15px 0 5px 0;font-weight: 700;}
 .link-facebook-feedback { font-size: 20px; margin-bottom: 20px;}
