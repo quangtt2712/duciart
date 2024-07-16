@@ -107,7 +107,7 @@ ul.menu li.current a {color: #000;}
 
 /*********************************content*************************************/
 #content {width:1000px; margin:0 auto; background:url(../assets/images/content-img.png) 1px bottom no-repeat; }
-#content1 {width:90%; margin:0 auto; background:url(../assets/images/content-img.png) 1px bottom no-repeat; }
+#content1 {width:90%; margin:0 auto; }
 .art {background:url(../assets/images/art.png) 0 0 no-repeat; width:320px; height:159px; margin:0 0 60px -30px;}
 
 .block-1 {background: url(../assets/images/block-1.gif) 0 bottom repeat-x #fff;}

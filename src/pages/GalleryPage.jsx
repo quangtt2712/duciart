@@ -69,11 +69,8 @@ const itemData = [
 const GalleryPage = () => {
   return (
     <section id="content1">
-      <div className="block-1 top-5">
-        <div
-          className="block-1-shadow"
-          style={{ paddingBottom: "50px" }}
-        >
+      <div className=" top-5">
+        <div style={{ paddingBottom: "50px" }}>
           <h2 className="clr-6 p4">Tranh của học viên</h2>
           <Box sx={{ height: "auto" }}>
             <ImageList
