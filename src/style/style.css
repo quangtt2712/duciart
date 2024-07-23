@@ -28,7 +28,7 @@ a:hover {text-decoration:none;}
 .clr-1 { color:#08a537;}
 .clr-2 { color:#000}
 .clr-3 { color:#bfaf00;}
-.clr-4 { color:#b30800;}
+.clr-4 { color:#ED1C24;}
 .clr-5 { color:#a400b3;}
 .clr-6 { color:#000;}
 .clr-7 { color:#fff;}
@@ -37,6 +37,7 @@ a:hover {text-decoration:none;}
 .text-2 {font-size:16px; line-height:25px; color:#000; font-style:italic;}
 .text-3 {font-size:24px; line-height:25px; color:#000; font-style:italic; margin-bottom: 10px;}
 .text-4 {font-size:18px; line-height:25px; color:#000; }
+.text-decoration {text-indent: -11px; padding-left: 1em;}
 .border-Top-Bottom{border-top: 2px solid #000; border-bottom: 2px solid #000;}
 
 h2 { font-size:40px; line-height:50px; color:#000000; font-weight:bold; font-family: 'Philosopher', sans-serif; letter-spacing:-1px;}
