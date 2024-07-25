@@ -8,6 +8,10 @@ import T05 from "../assets/pictures/5.jpg";
 import T06 from "../assets/pictures/6.jpg";
 import T07 from "../assets/pictures/7.jpg";
 import T08 from "../assets/pictures/8.jpg";
+import T09 from "../assets/pictures/9.jpg";
+import T10 from "../assets/pictures/10.jpg";
+import T11 from "../assets/pictures/11.jpg";
+import T12 from "../assets/pictures/12.jpg";
 
 const itemData = [
   {
@@ -49,6 +53,26 @@ const itemData = [
     img: T08,
     author: "Hòa Bình, 6 tuổi",
     class: "Lớp vẽ kí họa",
+  },
+  {
+    img: T09,
+    author: "Hòa Bình, 6 tuổi",
+    class: "Lớp vẽ kí họa",
+  },
+  {
+    img: T10,
+    author: "Hòa Bình, 6 tuổi",
+    class: "Lớp vẽ kí họa",
+  },
+  {
+    img: T11,
+    author: "Hòa Bình, 6 tuổi",
+    class: "Lớp vẽ kí họa",
+  },
+  {
+    img: T12,
+    author: "Khánh Ngọc, 8 tuổi",
+    class: "Lớp màu sáp dầu",
   },
 ];
 
