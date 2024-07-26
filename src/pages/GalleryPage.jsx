@@ -6,9 +6,7 @@ import T03 from "../assets/pictures/3.jpg";
 import T04 from "../assets/pictures/4.jpg";
 import T05 from "../assets/pictures/5.jpg";
 import T06 from "../assets/pictures/6.jpg";
-import T07 from "../assets/pictures/7.jpg";
 import T08 from "../assets/pictures/8.jpg";
-import T09 from "../assets/pictures/9.jpg";
 import T10 from "../assets/pictures/10.jpg";
 import T11 from "../assets/pictures/11.jpg";
 import T12 from "../assets/pictures/12.jpg";
@@ -16,58 +14,50 @@ import T12 from "../assets/pictures/12.jpg";
 const itemData = [
   {
     img: T01,
-    author: "Hòa Bình, 6 tuổi",
-    class: "Lớp vẽ kí họa",
+    author: "Bình An, 5 tuổi",
+    class: "Lớp vẽ sáp dầu",
   },
   {
     img: T02,
-    author: "Hòa Bình, 6 tuổi",
-    class: "Lớp vẽ kí họa",
+    author: "Minh Thuận, 6 tuổi",
+    class: "Lớp vẽ màu",
   },
   {
     img: T03,
-    author: "Hòa Bình, 6 tuổi",
-    class: "Lớp vẽ kí họa",
+    author: "Yến Nhi, 10 tuổi",
+    class: "Lớp vẽ màu",
   },
   {
     img: T04,
-    author: "Hòa Bình, 6 tuổi",
-    class: "Lớp vẽ kí họa",
+    author: "Ngọc Mai, 6 tuổi",
+    class: "Lớp vẽ sáp dầu",
   },
   {
     img: T05,
-    author: "Hòa Bình, 6 tuổi",
+    author: "Bảo Châu, 11 tuổi",
     class: "Lớp vẽ kí họa",
   },
   {
     img: T06,
-    author: "Hòa Bình, 6 tuổi",
+    author: "Minh Hiếu - Minh Đức, 6 tuổi",
     class: "Lớp vẽ kí họa",
   },
-  {
-    img: T07,
-    author: "Hòa Bình, 6 tuổi",
-    class: "Lớp vẽ kí họa",
-  },
+
   {
     img: T08,
-    author: "Hòa Bình, 6 tuổi",
+    author: "Ngọc Thảo, 6 tuổi",
     class: "Lớp vẽ kí họa",
   },
-  {
-    img: T09,
-    author: "Hòa Bình, 6 tuổi",
-    class: "Lớp vẽ kí họa",
-  },
+
   {
     img: T10,
-    author: "Hòa Bình, 6 tuổi",
+    author: "Hồng Quân, 6 tuổi",
     class: "Lớp vẽ kí họa",
   },
   {
     img: T11,
     author: "Hòa Bình, 6 tuổi",
-    class: "Lớp vẽ kí họa",
+    class: "Lớp vẽ màu",
   },
   {
     img: T12,
