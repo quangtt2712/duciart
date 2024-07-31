@@ -9,11 +9,11 @@ const AboutPage = () => {
         <div className="block-1 top-5">
           <div className="block-1-shadow2">
             <p className="clr-6 text-1 border-Top-Bottom">
-              Duci Art không dạy vẽ luyện thi, cũng không dạy bạn làm họa sỹ mà
-              là để truyền cảm hứng và những kỹ năng căn bản nhất về hội họa cho
-              tất cả các em nhỏ. Chúng mình tin rằng: khi các bạn nhỏ hiểu bản
-              chất vấn đề, bằng khả năng và sự sáng tạo, sẽ tự chinh phục được
-              những đỉnh cao sau này.
+              Duci Art không chỉ dạy vẽ luyện thi mà còn tập trung vào việc
+              truyền cảm hứng và những kỹ năng căn bản nhất về hội họa cho tất
+              cả các em nhỏ. Chúng mình tin rằng: khi các bạn nhỏ hiểu bản chất
+              vấn đề, bằng khả năng và sự sáng tạo, sẽ tự chinh phục được những
+              đỉnh cao sau này.
             </p>
             <p
               className="clr-6"
