@@ -12,6 +12,7 @@ jobs:
           if [ ${{secrets.BUILD}} == ACTIVE ]
           then
             echo '------------------- ready to deploy --------------------'
+            echo "${{ secrets.DOCKER_ACCESS_TOKEN }}"
           else
             echo 'not ready'
             exit 1
